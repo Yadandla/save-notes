@@ -16,7 +16,7 @@ const Notes = () => {
 
     const [search, setSearch] = useState("");
 
-    // // by filter method, search title
+    // by filter method, search title
     const filterData = notes.filter((note) => note.title.toLowerCase().includes(search.toLowerCase()));
 
     // Function for deletion of note

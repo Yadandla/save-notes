@@ -13,10 +13,14 @@ const Home = () => {
     // To manage textarea state
     const [content, setContent] = useState("");
 
+    // To read and modify the query string in the URL for the current location
     const [searchParams, setSearchParams] = useSearchParams();
 
     // when we want to update a note
     const noteId = searchParams.get("noteId");
+
+    // To read data from store 
+    const allNoteCards = useSelector((state) => state.note.notes);
 
     // To access reducer logic functions we need to use dispatch
     const dispatch = useDispatch();
@@ -35,13 +39,13 @@ const Home = () => {
             return; // Stop further execution
         }
 
-        // const formatDate = new Date().toLocaleDateString("default", { month: "long" }) + " " + new Date().getDate() + " , " + new Date().getFullYear();
+        const formatDate = new Date().toLocaleDateString("default", { month: "long" }) + " " + new Date().getDate() + " , " + new Date().getFullYear();
 
         const note = {
             title: title,
             content: content,
             id: noteId || Date.now().toString(36),
-            createdAt: new Date().toLocaleDateString("default", { month: "long" }) + " " + new Date().getDate() + " , " + new Date().getFullYear(),
+            createdAt: formatDate,
         }
         if (noteId) {
             // update note
@@ -57,8 +61,6 @@ const Home = () => {
         setContent("");
         setSearchParams({});
     }
-
-    const allNoteCards = useSelector((state) => state.note.notes);
 
     // To show data when we click on edit btn
     useEffect(() => {

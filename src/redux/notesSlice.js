@@ -56,6 +56,7 @@ const notesSlice = createSlice(
     }
 )
 
+// Actions creators are generated for each case reducer function
 export const { addNote, removeNote, updateNote, resetNote } = notesSlice.actions;
 
 export default notesSlice.reducer;
