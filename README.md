@@ -17,7 +17,7 @@ A lightweight, simple modern note-taking app built with React js, and Tailwind C
 
 - **Frontend**: React js, vite and Tailwind CSS v3.4.17
 - **Deployment**: Vercel
-- **State Management**: React Redux
+- **State Management**: Redux Toolkit
 - **Icons**: React Icons
 
 ## Live Demo 🌐
