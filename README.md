@@ -8,10 +8,10 @@ A lightweight, simple modern note-taking app built with React js, and Tailwind C
 
 ## Features ✨
 
-- **Markdown support** (format text with headings, lists, etc.)
-- **Responsive design** (works on mobile & desktop)
-- **LocalStorage** (notes persist in the browser)
-- **Search notes** (By typing title of notes)
+- **Fully Responsive**
+- **Data stored in LocalStorage**
+- **Search notes by title**
+- **View, delete, copy and edit the notes**
 
 ## Tech Stack 🛠️
 
