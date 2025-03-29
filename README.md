@@ -1,8 +1,30 @@
-# React + Vite
+# Save Notes 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight, modern note-taking app built with React js, and Tailwind CSS. Deployed on Vercel.
 
-Currently, two official plugins are available:
+![Save Notes Screenshot](https://via.placeholder.com/800x400?text=Save+Notes+Screenshot)  
+_(Replace with an actual screenshot of your app)_
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ✨
+
+- **Markdown support** (format text with headings, lists, etc.)
+- **Responsive design** (works on mobile & desktop)
+- **LocalStorage** (notes persist in the browser)
+
+## Tech Stack 🛠️
+
+- **Frontend**: React js, and Tailwind CSS
+- **Deployment**: Vercel
+- **State Management**: React Redux
+- **Icons**: React Icons
+
+## Live Demo 🌐
+
+👉 [https://save-notes-neon.vercel.app/](https://save-notes-neon.vercel.app/)
+
+## Installation 💻
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/save-notes.git
+   ```
