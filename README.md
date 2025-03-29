@@ -23,9 +23,3 @@ _(Replace with an actual screenshot of your app)_
 
 👉 [https://save-notes-neon.vercel.app/](https://save-notes-neon.vercel.app/)
 
-## Installation 💻
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/save-notes.git
-   ```
