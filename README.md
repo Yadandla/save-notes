@@ -2,7 +2,7 @@
 
 A lightweight, modern note-taking app built with React js, and Tailwind CSS. Deployed on Vercel.
 
-![Save Notes Screenshot]("C:\Users\yadan\OneDrive\Pictures\Camera Roll\Screenshots\Screenshot 2025-03-29 160941.png")  
+![Save Notes Screenshot]("")  
 _(Replace with an actual screenshot of your app)_
 
 ## Features ✨
