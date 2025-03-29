@@ -2,7 +2,7 @@
 
 A lightweight, modern note-taking app built with React js, and Tailwind CSS. Deployed on Vercel.
 
-![Save Notes Screenshot]("")  
+![Save Notes Screenshot]("screenshot-save-notes.png")  
 _(Replace with an actual screenshot of your app)_
 
 ## Features ✨
@@ -22,4 +22,3 @@ _(Replace with an actual screenshot of your app)_
 ## Live Demo 🌐
 
 👉 [https://save-notes-neon.vercel.app/](https://save-notes-neon.vercel.app/)
-
