@@ -1,6 +1,6 @@
 # Save Notes 📝
 
-A lightweight, modern note-taking app built with React js, and Tailwind CSS. Deployed on Vercel.
+A lightweight, simple modern note-taking app built with React js, and Tailwind CSS. Deployed on Vercel.
 
 ![Image](https://github.com/user-attachments/assets/793d8c49-0f15-4fa3-9a05-d7688b9dd0f4)
 
