@@ -4,6 +4,8 @@ A lightweight, modern note-taking app built with React js, and Tailwind CSS. Dep
 
 ![Image](https://github.com/user-attachments/assets/793d8c49-0f15-4fa3-9a05-d7688b9dd0f4)
 
+![Image](https://github.com/user-attachments/assets/bb156e99-e6d7-4ac3-8d7f-b690e20012d3)
+
 ## Features ✨
 
 - **Markdown support** (format text with headings, lists, etc.)
