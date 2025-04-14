@@ -20,6 +20,3 @@ A lightweight, simple modern note-taking app built with React js, and Tailwind C
 - **State Management**: Redux Toolkit
 - **Icons**: React Icons
 
-## Live Demo 🌐
-
-👉 [https://save-notes-neon.vercel.app/](https://save-notes-neon.vercel.app/)
